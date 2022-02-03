@@ -20,3 +20,7 @@ Successfully updated the customer
 Successfully removed the customer  
 3, Ash, Livington, 785456789  
 1, Emre, Quelich, 48954846546  
+
+## Learning Outcomes
+- How to connect local or remote PostgreSQL to Dotnet environment.
+- How to use NPGSQL API to manage the async commands.

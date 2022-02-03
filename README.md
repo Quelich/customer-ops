@@ -1,5 +1,5 @@
 # customer-ops
-A PostgreSQL database implementation, using ADO.NET compatible .NET provider NpgSQL. The database being used manipualates "Customer" data. 
+A PostgreSQL database implementation, using ADO.NET compatible .NET provider NpgSQL. The database being used manipulates "Customer" data. 
 
 ## Features
 - This project implements CRUD operations by simply using NpgSQL commands.
